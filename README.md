@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/monikamohandule1702-web/DSA/tree/master/0048-rotate-image) |
+| [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -34,4 +35,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/monikamohandule1702-web/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/monikamohandule1702-web/DSA/tree/master/0326-power-of-three) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
