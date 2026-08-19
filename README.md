@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/monikamohandule1702-web/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/monikamohandule1702-web/DSA/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
 ## Matrix
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/monikamohandule1702-web/DSA/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/monikamohandule1702-web/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
