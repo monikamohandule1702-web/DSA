@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/monikamohandule1702-web/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/monikamohandule1702-web/DSA/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
+| [0896-monotonic-array](https://github.com/monikamohandule1702-web/DSA/tree/master/0896-monotonic-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/monikamohandule1702-web/DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1480-running-sum-of-1d-array](https://github.com/monikamohandule1702-web/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/monikamohandule1702-web/DSA/tree/master/1672-richest-customer-wealth) |
