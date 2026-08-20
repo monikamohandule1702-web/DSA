@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/monikamohandule1702-web/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/monikamohandule1702-web/DSA/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
+| [1672-richest-customer-wealth](https://github.com/monikamohandule1702-web/DSA/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/monikamohandule1702-web/DSA/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/monikamohandule1702-web/DSA/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
 | ------- |
