@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/monikamohandule1702-web/DSA/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/monikamohandule1702-web/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/monikamohandule1702-web/DSA/tree/master/0326-power-of-three) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monikamohandule1702-web/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
