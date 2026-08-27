@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/monikamohandule1702-web/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/monikamohandule1702-web/DSA/tree/master/0048-rotate-image) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/monikamohandule1702-web/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/monikamohandule1702-web/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/monikamohandule1702-web/DSA/tree/master/0238-product-of-array-except-self) |
 | [0896-monotonic-array](https://github.com/monikamohandule1702-web/DSA/tree/master/0896-monotonic-array) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/monikamohandule1702-web/DSA/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/monikamohandule1702-web/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/monikamohandule1702-web/DSA/tree/master/3925-concatenate-array-with-reverse) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/monikamohandule1702-web/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
